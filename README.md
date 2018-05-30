@@ -46,8 +46,7 @@ Algorithms and data structures are the most integral notion in computing. They a
 
 22. Tower of Hanoi
 
-23. [Huffman Coding](https://www.github.com/dolotech/Data-Structure-and-Algorithms
-/HuffmanCoding.md)
+23. [Huffman Coding](https://www.github.com/dolotech/Data-Structure-and-Algorithms/HuffmanCoding.md)
 
 24. Drawing Cuboid
 
