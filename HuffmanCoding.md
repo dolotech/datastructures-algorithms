@@ -107,34 +107,4 @@ func main() {
     printCodes(exampleTree, []byte{})
 }
 
-```
-> 
-C:\gocode>go run example21.go
- SYMBOL  WEIGHT  HUFFMAN CODE
- m       1       0000
- d       1       0001
- r       1       0010
- t       1       0011
- a       1       0100
- p       1       0101
- s       1       01100
- y       1       01101
- u       1       01110
- w       1       01111
- v       1       10000
- o       1       10001
- f       1       10010
- z       1       10011
- n       1       10100
- i       1       10101
- l       1       10110
- c       1       10111
- g       1       11000
- h       1       11001
- e       1       11010
- k       1       11011
- x       1       11100
- j       1       11101
- q       1       11110
- b       1       11111
- C:\gocode>						   						
+```				   						

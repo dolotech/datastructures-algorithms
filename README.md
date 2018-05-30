@@ -4,62 +4,62 @@ Algorithms and data structures are the most integral notion in computing. They a
 
 1. [Linear Search](LinearSearch.md)
 
-2. [Binary Search](https://www.github.com/dolotech/Data-Structure-and-Algorithms/BinarySearch.md)
+2. [Binary Search](BinarySearch.md)
 
-3. [Interpolation Search](https://www.github.com/dolotech/Data-Structure-and-Algorithms/InterpolationSearch.md)
+3. [Interpolation Search](InterpolationSearch.md)
 
-4. [Bubble Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/BubbleSort.md)
+4. [Bubble Sort](BubbleSort.md)
 
-5. [Quick Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/QuickSort.md)
+5. [Quick Sort](QuickSort.md)
 
-6. [Selection Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/SelectionSort.md)
+6. [Selection Sort](SelectionSort.md)
 
-7. [Shell Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/ShellSort.md)
+7. [Shell Sort](ShellSort.md)
 
-8. [Insertion Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/InsertionSort.md)
+8. [Insertion Sort](InsertionSort.md)
 
-9. [Comb Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/CombSort.md)
+9. [Comb Sort](CombSort.md)
 
-10. [Merge Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/MergeSort.md)
+10. [Merge Sort](MergeSort.md)
 
-11. [Radix Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/RadixSort.md)
+11. [Radix Sort](RadixSort.md)
 
-12. [Pancake Sort](https://www.github.com/dolotech/Data-Structure-and-Algorithms/PancakeSort.md)
+12. [Pancake Sort](PancakeSort.md)
 
-13. [Binary Tree](https://www.github.com/dolotech/Data-Structure-and-Algorithms/BinaryTree.md)
+13. [Binary Tree](BinaryTree.md)
 
-14. [Linked List](https://www.github.com/dolotech/Data-Structure-and-Algorithms/LinkedList.md)
+14. [Linked List](LinkedList.md)
 
-15. [Rabin-Karp Algorithm](https://www.github.com/dolotech/Data-Structure-and-Algorithms/Rabin-KarpAlgorithm.md)
+15. [Rabin-Karp Algorithm](Rabin-KarpAlgorithm.md)
 
-16. [LIFO Stack and FIFO Queue](https://www.github.com/dolotech/Data-Structure-and-Algorithms/LIFOStackandFIFOQueue.md)
+16. [LIFO Stack and FIFO Queue](LIFOStackandFIFOQueue.md)
 
-17. [Median of Medians](https://www.github.com/dolotech/Data-Structure-and-Algorithms/MedianofMedians.md)
+17. [Median of Medians](MedianofMedians.md)
 
-18. [Longest Common Sub-sequence](https://www.github.com/dolotech/Data-Structure-and-Algorithms/LongestCommonSub-sequence.md)
+18. [Longest Common Sub-sequence](LongestCommonSub-sequence.md)
 
-19. [Levenshtein distance](https://www.github.com/dolotech/Data-Structure-and-Algorithms/Levenshteindistance.md)
+19. [Levenshtein distance](Levenshteindistance.md)
 
-20. [Knuth-Morris-Pratt (KMP) Algorithm](https://www.github.com/dolotech/Data-Structure-and-Algorithms/KMP.md)
+20. [Knuth-Morris-Pratt (KMP) Algorithm](KMP.md)
 
-21. [Floyd-Warshall Algorithm](https://www.github.com/dolotech/Data-Structure-and-Algorithms/Floyd-Warshall.md)
+21. [Floyd-Warshall Algorithm](Floyd-Warshall.md)
 
-22. [Tower of Hanoi](https://www.github.com/dolotech/Data-Structure-and-Algorithms/TowerofHanoi.md)
+22. [Tower of Hanoi](TowerofHanoi.md)
 
 23. [Huffman Coding](HuffmanCoding.md)
 
-24. [Drawing Cuboid](https://www.github.com/dolotech/Data-Structure-and-Algorithms/DrawingCuboid.md)
+24. [Drawing Cuboid](DrawingCuboid.md)
 
-25. [Random Maze Generator](https://www.github.com/dolotech/Data-Structure-and-Algorithms/RandomMazeGenerator.md)
+25. [Random Maze Generator](RandomMazeGenerator.md)
 
-26. [ZigZag Matrix](https://www.github.com/dolotech/Data-Structure-and-Algorithms/ZigZagMatrix.md)
+26. [ZigZag Matrix](ZigZagMatrix.md)
 
-27. [Spiral Matrix](https://www.github.com/dolotech/Data-Structure-and-Algorithms/SpiralMatrix.md)
+27. [Spiral Matrix](SpiralMatrix.md)
 
-28. [AVL Trees](https://www.github.com/dolotech/Data-Structure-and-Algorithms/AVLTrees.md)
+28. [AVL Trees](AVLTrees.md)
 
-29. [Permutations Generator](https://www.github.com/dolotech/Data-Structure-and-Algorithms/PermutationsGenerator.md)
+29. [Permutations Generator](PermutationsGenerator.md)
 
-30. [LZW Data Compression](https://www.github.com/dolotech/Data-Structure-and-Algorithms/LZW.md)
+30. [LZW Data Compression](LZW.md)
 
-31. [NUMERIC SLICE PERMUTATION GENERATOR](https://www.github.com/dolotech/Data-Structure-and-Algorithms/NUMERICSLICEPERMUTATIONGENERATOR.md)
+31. [NUMERIC SLICE PERMUTATION GENERATOR](NUMERICSLICEPERMUTATIONGENERATOR.md)
